@@ -12,7 +12,7 @@ This useful action takes the commit and prints out the commit sha. If you pass i
 ## Example Usage
 
 ```yaml
-uses: ldonley-workshop/info-action@v1
+uses: ldonley-workshop/info-action@v1.3
 with:
   name: "Sinbad the Sailor"
 ```
