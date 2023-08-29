@@ -1,0 +1,9 @@
+name: 'Info'
+description: 'Prints out the commit info'
+inputs:
+  name:
+    description: 'Your name'
+    required: false
+runs:
+  using: 'node16'
+  main: 'index.js'
