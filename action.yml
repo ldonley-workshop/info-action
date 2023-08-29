@@ -1,4 +1,4 @@
-name: 'Info'
+name: 'Get Commit SHA Info'
 description: 'Prints out the commit info'
 inputs:
   name:

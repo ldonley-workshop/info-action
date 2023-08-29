@@ -1,4 +1,4 @@
-# Info Action
+# Get Commit SHA Info
 
 This useful action takes the commit and prints out the commit sha. If you pass in your name, it will greet you as well.
 
