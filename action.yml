@@ -1,5 +1,8 @@
 name: 'Get Commit SHA Info'
 description: 'Prints out the commit info'
+branding:
+  icon: 'activity'
+  color: 'purple'
 inputs:
   name:
     description: 'Your name'
